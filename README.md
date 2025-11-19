@@ -16,6 +16,7 @@ Sistema web enfocada en la gestión de eventos académicos, culturales y estudia
 ## Autores - EQUIPO 1
 
 **Mario Daniel Cruz Balleza 1810158**
+
 **Gael Martínez Ramírez 2041554**
 
 Proyecto desarrollado en conjunto por el equipo para la evaluación final de la materia.
